@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.header:hover{
+ background-color: green;
+}
+
+.header{
+    background-color: black;
+    font-size: xx-large;
+}
+
+.s{
+    font-size: x-large;
+}
